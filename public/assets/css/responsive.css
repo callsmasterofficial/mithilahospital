@@ -1027,9 +1027,9 @@
   .upp.style-2 .user-name h6 {
     font-size: 15px;
   }
-.sticky {
+  .sticky {
     z-index: 2;
-}
+  }
   /*  */
 }
 
@@ -1045,9 +1045,9 @@
 
   /* Hero Section */
 
-  .hero-section {
+  /* .hero-section {
     margin-top: 63px;
-  }
+  } */
 
   .hero-content h1 {
     font-size: 59px;
@@ -1451,9 +1451,9 @@
   .upp.style-2 .testi-desc p {
     font-size: 18px;
   }
-.sticky {
+  .sticky {
     z-index: 2;
-}
+  }
   /*  */
 }
 
@@ -1965,7 +1965,7 @@
   }
   .sticky {
     z-index: 2;
-}
+  }
 
   /*  */
 }
@@ -2254,7 +2254,7 @@
   .service-content {
     left: 20px;
     bottom: 60px;
-}
+  }
 
   .service-content h2 a {
     font-size: 22px;
@@ -2359,10 +2359,10 @@
     height: auto;
     left: 0;
     right: 0;
-}
-.sticky {
+  }
+  .sticky {
     z-index: 2;
-}
+  }
   .testi-content h4 {
     font-size: 21px;
   }
